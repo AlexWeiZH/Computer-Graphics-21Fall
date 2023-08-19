@@ -7,7 +7,7 @@
 4.  Still, in program->property->VC++ directories, under the previous one, select the "library Directories"to be the path: project folder->Libraries->lib.<br />
 5.  In program->property->Linker->input, in the "Additional Dependencies" option, edit it, and type in the following:<br />
 
-opengl32.lib<  br />
+opengl32.lib <br />
 glew32.lib  <br />
 glew32s.lib  <br />
 glfw3.lib  <br />
