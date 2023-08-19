@@ -16,3 +16,5 @@
 6.  In program->property->C/C++ ->running library, select"MultiThread DLL(/MD)".<br />
 7.  lick apply & ok.<br />
 8.  If the error "cannot find file glew32.dll" is pumped up, go to project foder->Libraries->bin, copy the file "glew32.dll" into this folder: C:\Windows\System32, if that doesn't work, try copy into this folder: C:\Windows\SysWOW64<br />
+### By changing certain codes, this will be what it looks like:
+![image](https://github.com/AlexWeiZH/Computer-Graphics-21Fall/assets/98062338/f69bb252-c6bb-415d-bc49-a2b22c2635c2)
