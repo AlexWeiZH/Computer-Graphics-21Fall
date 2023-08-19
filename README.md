@@ -1,6 +1,6 @@
 ## This project is based on Visual Studio 2019, glfw-3.3.2 and glew-2.1.0-win32 , to run this program, first, make sure you have GLFW and GLEW installed and then:
 
-1.In vs2019, use the "x64" solution platform and "Release" to build the project, which is next to the "Debug" button at the top of the screen.
+1.In vs2019, use the "x64" solution platform and "Release" to build the project, which is next to the "Debug" button at the top of the screen.<br />
 2.In program->property, in the top right position, select the "platform:" to be "All platforms".
 3.In program->property->VC++ directories, on the right side, under "General", select the "include Directories" to be the following path: project folder->Libraries->include.
 4.Still, in program->property->VC++ directories, under the previous one, select the "library Directories"to be the path: project folder->Libraries->lib.
