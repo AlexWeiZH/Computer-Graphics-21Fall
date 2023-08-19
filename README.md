@@ -18,4 +18,4 @@ glfw3dll.lib
 ## This is what it looks like:
 ![RayTracer](https://github.com/AlexWeiZH/Computer-Graphics-21Fall/assets/98062338/7a682f2f-1915-4209-a167-340e4ada6e13)
 
-## (I know it looked bad, but consider its my first CG program, it is actually acceptable :) )
+### (I know it looked bad, but consider its my first CG program, it is actually acceptable :) )
