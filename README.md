@@ -13,7 +13,7 @@ glfw3.lib<br />
 glfw3dll.lib<br />
 
 6.In program->property->C/C++ ->running library, select"MultiThread DLL(/MD)".<br />
-7.then click ok.<br />
+7.then click apply & ok.<br />
 8.If the error "cannot find file glew32.dll" is pumped up, go to project foder->Libraries->bin, copy the file "glew32.dll" into this folder: C:\Windows\System32, if that doesn't work, try copy into this folder: C:\Windows\SysWOW64<br />
 ## This is what it looks like:
 ![RayTracer](https://github.com/AlexWeiZH/Computer-Graphics-21Fall/assets/98062338/7a682f2f-1915-4209-a167-340e4ada6e13)
